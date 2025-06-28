@@ -30,10 +30,10 @@ IBM_HR_Attrition_Project/
 ## Screenshots
 
 ### Overview Page
-![Overview](screenshots/IBM_HR_ATTRITION_DASHBOARD_OVERVIEW.JPG)
+![Overview](IBM_HR_Attrition_Project/Screenshots/IBM_HR_ATTRITION_DASHBOARD_OVERVIEW.JPG)
 
-### Demographics & Tenure
-![Demographics](screenshots/DemographicInsights.JPG)
+### Demographic Insights Page
+![Demographics](IBM_HR_Attrition_Project/Screenshots/DemographicInsights.JPG)
 
 
 ## Notes
