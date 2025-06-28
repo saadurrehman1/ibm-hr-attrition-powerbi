@@ -1,0 +1,19 @@
+JobRole,Attrition,Count
+Healthcare Representative,No,122
+Healthcare Representative,Yes,9
+Human Resources,No,40
+Human Resources,Yes,12
+Laboratory Technician,No,197
+Laboratory Technician,Yes,62
+Manager,No,97
+Manager,Yes,5
+Manufacturing Director,No,135
+Manufacturing Director,Yes,10
+Research Director,No,78
+Research Director,Yes,2
+Research Scientist,No,245
+Research Scientist,Yes,47
+Sales Executive,No,269
+Sales Executive,Yes,57
+Sales Representative,No,50
+Sales Representative,Yes,33
