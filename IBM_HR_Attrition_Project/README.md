@@ -2,13 +2,13 @@
 
 This project explores the IBM HR Employee Attrition dataset using SQL for EDA and Power BI for visualization.
 
-## 📌 Project Overview
+## Project Overview
 
 - **Goal:** Analyze employee attrition patterns and identify key factors influencing churn.
 - **Tools:** SQLite (SQL), Power BI Desktop
 - **Dataset:** [IBM HR Analytics Employee Attrition](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
-## 📂 Repository Structure
+## Repository Structure
 
 IBM_HR_Attrition_Project/
  ├── hr_attrition_eda.sql       # SQL EDA queries
@@ -29,13 +29,17 @@ IBM_HR_Attrition_Project/
 
 ## Screenshots
 
-See `/screenshots` for visuals of all report pages.
+### Overview Page
+![Overview](screenshots/IBM_HR_ATTRITION_DASHBOARD_OVERVIEW.JPG)
+
+### Demographics & Tenure
+![Demographics](screenshots/DemographicInsights.JPG)
+
 
 ## Notes
 
 - The `.pbix` file is included for transparency — open in **Power BI Desktop** to explore.
 - If you’d like to test the SQL yourself, see `hr_attrition_eda.sql` and `/EDA_Results/`.
 
----
 
 **Created by Saad Ur Rehman**
